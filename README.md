@@ -1,17 +1,17 @@
 <div align="center">
 
 ```
-██╗   ██╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗
-██║   ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗
-██║   ██║███████║██████╔╝███████╗███████║███████║
-╚██╗ ██╔╝██╔══██║██╔══██╗╚════██║██╔══██║██╔══██║
- ╚████╔╝ ██║  ██║██║  ██║███████║██║  ██║██║  ██║
-  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+ ██╗   ██╗ █████╗ ██████╗ ███████╗██╗  ██╗ █████╗
+ ██║   ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗
+ ██║   ██║███████║██████╔╝███████╗███████║███████║
+ ╚██╗ ██╔╝██╔══██║██╔══██╗╚════██║██╔══██║██╔══██║
+  ╚████╔╝ ██║  ██║██║  ██║███████║██║  ██║██║  ██║
+   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 ### *Builder. Thinker. Engineer?*
 
-**`3rd Year AIML · Bengaluru, India`** &nbsp;|&nbsp; **`Research Intern @ IISc - NMCAD`** &nbsp;|&nbsp; **`Student Co-ordinator @ MARVEL RnD Lab`**
+**`3rd Year AIML · Bengaluru, India`** &nbsp;|&nbsp; **`Ex-Research Intern @ IISc - NMCAD`** &nbsp;|&nbsp; **`Student Co-ordinator @ MARVEL RnD Lab`**
 
 <br/>
 
@@ -100,10 +100,10 @@ K-Nearest Neighbors (KNN)  ·  K-Means Clustering  ·  Naive Bayes  ·  Deep Neu
 
 ## ✦ Beyond the Code
 
-- 🏆 **Won Mock Placements** — Technical depth meets communication, across disciplines and semesters
-- 🐳 **Docker Workshop Lead** — Conducted workshops for students; teaching is the best way to learn
-- 🔬 **IISc NMCAD Internship** — Real research. Real impact. Not a LinkedIn checkbox.
-- 🤝 **MARVEL RnD Co-ordinator** — Bridging academia and real-world engineering problems
+-  **Won Mock Placements 2025** — Technical depth meets communication, across disciplines and semesters
+-  **Docker Workshop Lead** — Conducted workshops for students; teaching is the best way to learn
+-  **IISc NMCAD Internship** — Real research. Real impact. Not a LinkedIn checkbox.
+-  **MARVEL RnD Co-ordinator** — Bridging academia and real-world engineering problems
 
 ---
 
